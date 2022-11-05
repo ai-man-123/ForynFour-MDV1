@@ -5,12 +5,9 @@ untuk memperkenalkan diri kamu
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 🚀  Nama :
 🚀  Umur :
-🚀  askot :
-🚀  spill ig :
-🚀  spill tiktok :
-🚀  Alasan masuk grup :
+🚀  nama tiktok :
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-Selamat Bergabung Semoga Betah 
+Selamat Bergabung 
 Patuhi Peraturan Di Group ini
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 
 `}, { quoted: m})
