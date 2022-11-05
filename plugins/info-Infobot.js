@@ -68,7 +68,7 @@ let d = new Date(new Date + 3600000)
 	rows: [
 	    {title: "📌 STATUS BOT", rowId: '.statusbot'},
 	    {title: "📌 SPEED", rowId: '.ping'},
-	{title: "📌 SEWA", rowId: '.sewa'},
+	{title: "📌 OWNER", rowId: '.owner'},
 	{title: "📌 DONASI", rowId: '.donasi'},
 	{title: "📌 MENU", rowId: '.menu'},
   ]},]
@@ -76,7 +76,7 @@ let d = new Date(new Date + 3600000)
   text: ehe,
   footer: inpo,
   title: '',
-  buttonText: "Click Here",
+  buttonText: "Click Here❦~",
   sections
 }
 await conn.sendMessage(m.chat, listMessage, { quoted: m })
